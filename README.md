@@ -1,2 +1,2 @@
-# app-ads.txt
-Admob app-ads.txt for SI Calculator
+google.com, pub-4525120537488113,
+DIRECT, f08c47fec0942fa0
